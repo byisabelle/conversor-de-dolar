@@ -24,7 +24,7 @@ valor = tk.Entry(janela, bg='#72F2EB', fg='#747F7F')
 valor.pack(pady=10)
 
 botao = tk.Button(janela, text='Converter' , command=dolar, bg='#00CCC0', fg='#002333')
-botao.pack(pady=10)
+botao.pack(pady=10)aul
 
 resposta = tk.Label(janela, text='', font=('Verdana', 12), fg='#002333', bg='#B4BEC9')
 resposta.pack(pady=10)
