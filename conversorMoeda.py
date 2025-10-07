@@ -11,7 +11,7 @@ def dolar():
 
 janela = tk.Tk()
 janela.geometry('500x300')
-janela.title('Aula 04 - Tkinter')
+janela.title('Aula 04/05 - Tkinter API')
 janela.configure(bg='#B4BEC9')
 
 titulo = tk.Label(janela, text='Coversor de Reais para Dólar', font=('Verdana', 16), fg='#002333', bg='#B4BEC9')
